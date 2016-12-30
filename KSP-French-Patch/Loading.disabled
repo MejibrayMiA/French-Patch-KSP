@@ -1,0 +1,718 @@
+LANGUAGEPATCHES
+{
+    TRANSLATION
+    {
+        text = next
+        translation = Suivant
+    }
+    TRANSLATION
+    {
+        text = Data Value: (\d*).(\d*)
+        translation = Valeur des données: @1.@2
+    }
+    TRANSLATION
+    {
+        text = VAB
+        translation = VAB
+    }
+    TRANSLATION
+    {
+        text = Cancel
+        translation = Annuler
+    }
+    TRANSLATION
+    {
+        text = Decription Text
+        translation = Descriptif
+    }
+    TRANSLATION
+    {
+        text = Recovery of a vessel that survived a flight
+        translation = Récupération d'un vaisseau qui a survécu à un vol
+    }
+    TRANSLATION
+    {
+        text = Biome:
+        translation = Biome:
+    }
+    TRANSLATION
+    {
+        text = Crewmember Kerman:
+        translation = Membre d'équipage Kerman:
+    }
+    TRANSLATION
+    {
+        text = Upgrade\n<color=#(\w*)>N/A</color>:
+        translation = Ameliorer\n<color=#@1>N/A</color>:
+    }
+    TRANSLATION
+    {
+        text = Crewmember Kerman:
+        translation = Membre d'équipage Kerman:
+    }
+    TRANSLATION
+    {
+        text = Value\n
+        translation = Valeur\n
+    }
+    TRANSLATION
+    {
+        text = Facility Level
+        translation = Niveau de Batiment\n
+    }
+    TRANSLATION
+    {
+        text = (\w*) parts, (\w*) stages
+        translation = @1 Parties, @2 Etages
+    }
+    TRANSLATION
+    {
+        text = Delete
+        translation = Supprimer
+    }
+    TRANSLATION
+    {
+        text = Close\n
+        translation = Fermer\n
+    }
+    TRANSLATION
+    {
+        text = Name
+        translation = Nom
+    }
+    TRANSLATION
+    {
+        text = Part Title Crew
+        translation = Titre de la partie Equipage
+    }
+    TRANSLATION
+    {
+        text = default
+        translation = Par defaut
+    }
+    TRANSLATION
+    {
+        text = Debris
+        translation = Débris
+    }
+    TRANSLATION
+    {
+        text = Resource Name
+        translation = Nom de la ressource
+    }
+    TRANSLATION
+    {
+        text = Accept
+        translation = Accepter
+    }
+    TRANSLATION
+    {
+        text = Transmit Experiment\n((\d*)% Efficiency)
+        translation = Transmettre l'experience\n(@1% Efficace)
+    }
+    TRANSLATION
+    {
+        text = The plaque on Site Name Reads:
+        translation = La plaque sur le nom du site dit:
+    }
+    TRANSLATION
+    {
+        text = Map Center:
+        translation = Centre de la carte
+    }
+    TRANSLATION
+    {
+        text = Key
+        translation = Touche
+    }
+    TRANSLATION
+    {
+        text = Flight Results
+        translation = Résultats des vols
+    }
+    TRANSLATION
+    {
+        text = Narrow Band Scanner\n
+        translation = Scanner de bande étroite\n
+    }
+    TRANSLATION
+    {
+        text = Transfer
+        translation = Transfert
+    }
+    TRANSLATION
+    {
+        text = Vessel Name
+        translation = Nom du Vaisseau
+    }
+    TRANSLATION
+    {
+        text = Abundance:
+        translation = Abondance
+    }
+    TRANSLATION
+    {
+        text = EVA        
+        translation = EVA
+    }
+    TRANSLATION
+    {
+        text = Message\n(\w*)
+        translation = Message\n@1
+    }
+    TRANSLATION
+    {
+        text = KSP Stats Tracking
+        translation = Suivi des statistiques KSP
+    }
+    TRANSLATION
+    {
+        text = New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew Text\nNew Text\nNew Text\nNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew Text\nNew TextNew TextNew TextNew TextNew TextNew Text
+        translation = Nouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texte\nNouveau texte\nNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texteNouveau texte
+    }
+    TRANSLATION
+    {
+        text = Status: N/A
+        translation = Statut: N/A
+    }
+    TRANSLATION
+    {
+        text = Enter
+        translation = Entrer
+    }
+    TRANSLATION
+    {
+        text = Tracking Station
+        translation = Observatoire
+    }
+    TRANSLATION
+    {
+        text = Mission Summary for <i>(\w*)</i>
+        translation = Sommaire de la mission pour <i>@1</i>
+    }
+    TRANSLATION
+    {
+        text = Button
+        translation = Bouton
+    }
+    TRANSLATION
+    {
+        text = Science Sample from (\w*)
+        translation = Echantillon Scientifique de @1
+    }
+    TRANSLATION
+    {
+        text = Ship
+        translation = Vaisseau
+    }
+    TRANSLATION
+    {
+        text = Merge
+        translation = Fusionner
+    }
+    TRANSLATION
+    {
+        text = Jebediah Kerman\nValentina Kerman\nBill Kerman\n<i>((\d*) more)</i>
+        translation = Jebediah Kerman\nValentina Kerman\nBill Kerman\n<i>(@1 mehr)</i>
+    }
+    TRANSLATION
+    {
+        text = Keep Experiment
+        translation = Gardez l'expérience
+    }
+    TRANSLATION
+    {
+        text = Landed somewhere long enough to line break
+        translation = Atterri quelque part assez longtemps pour interrompre la ligne
+    }
+    TRANSLATION
+    {
+        text = My Overly Long Ship has a very long name
+        translation = Mon Enorme Vaisseau a un nom très long
+    }
+    TRANSLATION
+    {
+        text = Science
+        translation = Science
+    }
+    TRANSLATION
+    {
+        text = Station
+        translation = Station
+    }
+    TRANSLATION
+    {
+        text = I'm almost sure there is a third line here
+        translation = Je suis presque sûr qu'il y a une troisième ligne ici
+    }
+    TRANSLATION
+    {
+        text = Show severity:
+        translation = Afficher la gravité
+    }
+    TRANSLATION
+    {
+        text = Cost: Â£(\d*),(\d*),(\d*).(\d*)
+        translation = Cout: §@1,@2,@3.@4
+    }
+    TRANSLATION
+    {
+        text = SPH
+        translation = SPH
+    }
+    TRANSLATION
+    {
+        text = Select a Craft to Load
+        translation = Sélectionnez un vaisseau à charger
+    }
+    TRANSLATION
+    {
+        text = Probe
+        translation = Sonde
+    }
+    TRANSLATION
+    {
+        text = Results from the science experiment are fascinatingly sciency!
+        translation = Les résultats de l'expérience scientifique sont des sciences fascinantes!
+    }
+    TRANSLATION
+    {
+        text = Game Platform: (\w*)
+        translation = Plateforme de jeu: @1
+    }
+    TRANSLATION
+    {
+        text = Title Text
+        translation = Titre
+    }
+    TRANSLATION
+    {
+        text = Job
+        translation = Travail
+    }
+    TRANSLATION
+    {
+        text = Header (\w*)
+        translation = Entête @1
+    }
+    TRANSLATION
+    {
+        text = File Text
+        translation = Texte du fichier
+    }
+    TRANSLATION
+    {
+        text = Don't send my IP address
+        translation = N'envoyez pas mon adresse IP
+    }
+    TRANSLATION
+    {
+        text = Quit to Menu
+        translation = Quitter le menu
+    }
+    TRANSLATION
+    {
+        text = IP Address: (\d*).(\d*).(\d*).(\d*)
+        translation = Adresse IP: @1.@2.@3.@4.
+    }
+    TRANSLATION
+    {
+        text = Placeholder Text about Placeholder Things!
+        translation = Placeholder Texte sur Placeholder Things!
+    }
+    TRANSLATION
+    {
+        text = Sandbox
+        translation = Bac a Sable
+    }
+    TRANSLATION
+    {
+        text = App Title
+        translation = Titre de l'application
+    }
+    TRANSLATION
+    {
+        text = Tab Caption Text here
+        translation = Tab Légende Texte ici
+    }
+    TRANSLATION
+    {
+        text = Revert to Launch ((\d*)s ago)
+        translation = Retour au Lancement (@s zurück)
+    }
+    TRANSLATION
+    {
+        text = Qty: (\d*)
+        translation = Quantité :@1
+    }
+    TRANSLATION
+    {
+        text = Space Center
+        translation = Centre spatial
+    }
+    TRANSLATION
+    {
+        text = Rename Vessel
+        translation = Renommer le vaisseau
+    }
+    TRANSLATION
+    {
+        text = +(\d*),(\d*).(\d*) Funds
+        translation = +@1,@2.@3 de Budget 
+    }
+    TRANSLATION
+    {
+        text = Centre d'Equipage
+        translation = Einstiegsluke
+    }
+    TRANSLATION
+    {
+        text = Stage View
+        translation = Vue de la scène
+    }
+    TRANSLATION
+    {
+        text = Demolish
+        translation = Demolir
+    }
+    TRANSLATION
+    {
+        text = There is no orbital survey data available.  Conduct an orbital survey using a survey scanner to enable high-definition detail.\n\nEnhance data accuracy for a biome by landing and operating a Surface Scanner.
+        translation = Il n'y a pas de données d'enquête orbitale disponibles. Effectuer un relevé orbital à l'aide d'un scanneur pour obtenir des détails en haute définition. \n\ nEnvoyer la précision des données d'un biome en atterrissant et en exploitant un scanner de surface.
+    }
+    TRANSLATION
+    {
+        text = Vessel Type:
+        translation = Type de Vaisseau:
+    }
+    TRANSLATION
+    {
+        text = Parts
+        translation = Parties
+    }
+    TRANSLATION
+    {
+        text = KSC Facility
+        translation = Batiment KSC
+    }
+    TRANSLATION
+    {
+        text = Crew Name
+        translation = Nom d'equipage
+    }
+    TRANSLATION
+    {
+        text = Crew
+        translation = Equipage
+    }
+    TRANSLATION
+    {
+        text = Inoperable after transmitting\n
+        translation = Inopérable après transmission\n
+    }
+    TRANSLATION
+    {
+        text = Target:
+        translation = Cible:
+    }
+    TRANSLATION
+    {
+        text = Load
+        translation = Charger
+    }
+    TRANSLATION
+    {
+        text = Restart
+        translation = Redemarrer
+    }
+    TRANSLATION
+    {
+        text = +(\d*) Science
+        translation = +@1 Science
+    }
+    TRANSLATION
+    {
+        text = Game ID: (\d*)
+        translation = ID Jeu: @1
+    }
+    TRANSLATION
+    {
+        text = Reset Experiment\n
+        translation = Recommencer l'experience\n
+    }
+    TRANSLATION
+    {
+        text = Crew:
+        translation = Equipage:
+    }
+    TRANSLATION
+    {
+        text = Flight results
+        translation = Resultat de vol
+    }
+    TRANSLATION
+    {
+        text = Transmit: +(\d*).(\d*) Science
+        translation = Transmission: +@1.@2 Science
+    }
+    TRANSLATION
+    {
+        text = Recovery: +(\d*).(\d*) Science
+        translation = Recuperation: +@1.@2 Science
+    }
+    TRANSLATION
+    {
+        text = Recover
+        translation = Recuperer
+    }
+    TRANSLATION
+    {
+        text = Game Version: (\d*).(\d*).(\d*).(\d*)
+        translation = Version du Jeu: @1.@2.@3.@4
+    }
+    TRANSLATION
+    {
+        text = Empty seat
+        translation = Place Libre
+    }
+    TRANSLATION
+    {
+        text = Continue
+        translation = Continuer
+    }
+    TRANSLATION
+    {
+        text = Lander
+        translation = Lander
+    }
+    TRANSLATION
+    {
+        text = Rover
+        translation = Rover
+    }
+    TRANSLATION
+    {
+        text = SpaceObj
+        translation = Objet Spatial
+    }
+    TRANSLATION
+    {
+        text = Achievements
+        translation = Réalisations
+    }
+    TRANSLATION
+    {
+        text = +(\d*) XP Gained
+        translation = +@1 XP gagné
+    }
+    TRANSLATION
+    {
+        text = Part Name Here
+        translation = Nom de la pièce ici
+    }
+    TRANSLATION
+    {
+        text = Send anonymous game progress data
+        translation = Envoyer des données de progression de jeu anonymes
+    }
+    TRANSLATION
+    {
+        text = This is a facility at the Kerbal Space Center. If you hit it hard enough, it might collapse in a nice, satisfying explosion.
+        translation = Il s'agit d'une installation au centre spatial Kerbal. Si vous frappez assez fort, il pourrait s'effondrer dans une explosion agréable, satisfaisant.
+    }
+    TRANSLATION
+    {
+        text = Empty
+        translation = Vide
+    }
+    TRANSLATION
+    {
+        text = (\d*) Data Gathered
+        translation = @1 Données Recuperées
+    }
+    TRANSLATION
+    {
+        text = Rebuild Lvl (\d*)\nÂ£ (\d*),(\d*),(\d*)
+        translation = Niveau de Reconstruction @1\n§ @2,@3,@4
+    }
+    TRANSLATION
+    {
+        text = Base
+        translation = Base
+    }
+    TRANSLATION
+    {
+        text = new textnew textnew textnew textnewtwo linesnew textnew textnew textnew textnewtwo linesnew textnew textnew textnew textnewtwo linesnew textnew textnew textnew textnewtwo linesnew textnew textnew textnew 
+        translation = Nouveau texte nouveau texte nouveau texte nouveau texte nouveau texte nouveau texte nouveau texte nouveau texte nouveau texte nouveau texte nouveau texte nouveau texte nouveau lignes nouveau texte nouveau texte nouveau texte nouveau texte nouveau lignes nouveau texte nouveau texte nouveau texte
+    }
+    TRANSLATION
+    {
+        text = Item Title\n
+        translation = Nom d'Objet\n
+    }
+    TRANSLATION
+    {
+        text = Data Size: (\d*) Mits
+        translation = Taille Données: @1 Mits
+    }
+    TRANSLATION
+    {
+        text =     \[\+\] Contract
+        translation = \[\+\] Contrat
+    }
+    TRANSLATION
+    {
+        text = No description available.
+        translation = Aucune Description
+    }
+    TRANSLATION
+    {
+        text = Unit Value: (\d*),(\d*).(\d*)
+        translation = Valeur Unitaire: @1,@2.@3
+    }
+    TRANSLATION
+    {
+        text = Vessel Name Here
+        translation = Nom du Vaisseau Ici
+    }
+    TRANSLATION
+    {
+        text = No data available
+        translation = Aucune données Disponible
+    }
+    TRANSLATION
+    {
+        text = KSP would like to send some data gathered from your system to the KSP Servers, to be used for statistical purposes.\n\nThe game will send the following data:
+        translation = KSP souhaite envoyer des données collectées à partir de votre système vers les serveurs KSP, à des fins statistiques. \n\ nLe jeu envoie les données suivantes:
+    }
+    TRANSLATION
+    {
+        text = (\d*) Parts in (\d*) Stages
+        translation = @1 Parties sur @2 Etapes
+    }
+    TRANSLATION
+    {
+        text = Color
+        translation = Couleur
+    }
+    TRANSLATION
+    {
+        text = Discard Data
+        translation = Supprimer Données
+    }
+    TRANSLATION
+    {
+        text = Process in Lab Module\n(\d*) Data\n(\d*) Science\n(\d*)Y (\d*)D
+        translation = Fait en Module Laboratoire\n@1 Données\n@2 Science\n@3A @4J
+    }
+    TRANSLATION
+    {
+        text = Message title
+        translation = Titre du message
+    }
+    TRANSLATION
+    {
+        text = Part Value: (\d*),(\d*).(\d*)
+        translation = Valeur de la Partie: @1,@2.@3
+    }
+    TRANSLATION
+    {
+        text = Advanced to Level (\d*)!
+        translation = Atteint le niveau @1!
+    }
+    TRANSLATION
+    {
+        text = (\d*)%
+        translation = @1%
+    }
+    TRANSLATION
+    {
+        text = Refresh
+        translation = Raffraichir
+    }
+    TRANSLATION
+    {
+        text = Return to Vehicle Assembly
+        translation = Retourner aux Batiment de Montage
+    }
+    TRANSLATION
+    {
+        text = Resource
+        translation = Ressource
+    }
+    TRANSLATION
+    {
+        text = Ready for next assignment
+        translation = Prêt pour la prochaine affectation
+    }
+    TRANSLATION
+    {
+        text = Fly
+        translation = Vole
+    }
+    TRANSLATION
+    {
+        text = Select a file to load
+        translation = Choisissez un fichier a charger
+    }
+    TRANSLATION
+    {
+        text = ModuleCrew: (\d*)/(\d*)
+        translation = Module d'equipage: @1/@2
+    }
+    TRANSLATION
+    {
+        text = Start
+        translation = Demarrer
+    }
+    TRANSLATION
+    {
+        text = Continue Saved Game
+        translation = Continuer la Partie Sauvegardée
+    }
+    TRANSLATION
+    {
+        text = Load Scenario
+        translation = Charger un Scenario
+    }
+    TRANSLATION
+    {
+        text = +(\d*)%
+        translation = +@1%
+    }
+    TRANSLATION
+    {
+        text =     \[\+\] Design concern
+        translation = \[\+\] Problème de conception
+    }
+    TRANSLATION
+    {
+        text = Vessel Name:
+        translation = Nom du Vaisseau:
+    }
+    TRANSLATION
+    {
+        text = Resource:
+        translation = Ressource:
+    }
+    TRANSLATION
+    {
+        text = Select file to load.
+        translation = Choisissez un fichier a charger
+    }
+    TRANSLATION
+    {
+        text = Outcome:
+        translation = Résultat:
+    }
+    TRANSLATION
+    {
+        text = Revert to Vehicle Assembly ((\d*)s ago)
+        translation = Retourner a l'assemblement (@1 avant)
+    }
+    TRANSLATION
+    {
+        text = Loading...\n
+        translation = Chargement...\n
+    }
+}
