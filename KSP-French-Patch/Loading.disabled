@@ -1,6 +1,6 @@
-ï»¿// **************
-// KSP-French-Patch: Traduit KSP en FranÃ§ais
-// BasÃ©s sur la Traduction Alemande de Thomas Kermann
+// **************
+// KSP-French-Patch: Traduit KSP en Français
+// Basés sur la Traduction Alemande de Thomas Kermann
 // Autor: MejibrayMiA.
 // **************
 
@@ -14,7 +14,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Data Value: (\d*).(\d*)
-        translation = Valeur des donnÃ©es: @1.@2
+        translation = Valeur des données: @1.@2
     }
     TRANSLATION
     {
@@ -34,7 +34,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Recovery of a vessel that survived a flight
-        translation = RÃ©cupÃ©ration d'un vaisseau qui a survÃ©cu Ã  un vol
+        translation = Récupération d'un vaisseau qui a survécu à un vol
     }
     TRANSLATION
     {
@@ -44,7 +44,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Crewmember Kerman:
-        translation = Membre d'Ã©quipage Kerman:
+        translation = Membre d'équipage Kerman:
     }
     TRANSLATION
     {
@@ -54,7 +54,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Crewmember Kerman:
-        translation = Membre d'Ã©quipage Kerman:
+        translation = Membre d'équipage Kerman:
     }
     TRANSLATION
     {
@@ -99,7 +99,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Debris
-        translation = DÃ©bris
+        translation = Débris
     }
     TRANSLATION
     {
@@ -134,12 +134,12 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Flight Results
-        translation = RÃ©sultats des vols
+        translation = Résultats des vols
     }
     TRANSLATION
     {
         text = Narrow Band Scanner\n
-        translation = Scanner de bande Ã©troite\n
+        translation = Scanner de bande étroite\n
     }
     TRANSLATION
     {
@@ -224,7 +224,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Keep Experiment
-        translation = Gardez l'expÃ©rience
+        translation = Gardez l'expérience
     }
     TRANSLATION
     {
@@ -234,7 +234,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = My Overly Long Ship has a very long name
-        translation = Mon Enorme Vaisseau a un nom trÃ¨s long
+        translation = Mon Enorme Vaisseau a un nom très long
     }
     TRANSLATION
     {
@@ -249,17 +249,17 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = I'm almost sure there is a third line here
-        translation = Je suis presque sÃ»r qu'il y a une troisiÃ¨me ligne ici
+        translation = Je suis presque sûr qu'il y a une troisième ligne ici
     }
     TRANSLATION
     {
         text = Show severity:
-        translation = Afficher la gravitÃ©
+        translation = Afficher la gravité
     }
     TRANSLATION
     {
-        text = Cost: Ã‚Â£(\d*),(\d*),(\d*).(\d*)
-        translation = Cout: Â§@1,@2,@3.@4
+        text = Cost: Â£(\d*),(\d*),(\d*).(\d*)
+        translation = Cout: §@1,@2,@3.@4
     }
     TRANSLATION
     {
@@ -269,7 +269,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Select a Craft to Load
-        translation = SÃ©lectionnez un vaisseau Ã  charger
+        translation = Sélectionnez un vaisseau à charger
     }
     TRANSLATION
     {
@@ -279,7 +279,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Results from the science experiment are fascinatingly sciency!
-        translation = Les rÃ©sultats de l'expÃ©rience scientifique sont des sciences fascinantes!
+        translation = Les résultats de l'expérience scientifique sont des sciences fascinantes!
     }
     TRANSLATION
     {
@@ -299,7 +299,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Header (\w*)
-        translation = EntÃªte @1
+        translation = Entête @1
     }
     TRANSLATION
     {
@@ -339,17 +339,17 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Tab Caption Text here
-        translation = Tab LÃ©gende Texte ici
+        translation = Tab Légende Texte ici
     }
     TRANSLATION
     {
         text = Revert to Launch ((\d*)s ago)
-        translation = Retour au Lancement (@s zurÃ¼ck)
+        translation = Retour au Lancement (@s zurück)
     }
     TRANSLATION
     {
         text = Qty: (\d*)
-        translation = QuantitÃ© :@1
+        translation = Quantité :@1
     }
     TRANSLATION
     {
@@ -374,7 +374,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Stage View
-        translation = Vue de la scÃ¨ne
+        translation = Vue de la scène
     }
     TRANSLATION
     {
@@ -384,7 +384,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = There is no orbital survey data available.  Conduct an orbital survey using a survey scanner to enable high-definition detail.\n\nEnhance data accuracy for a biome by landing and operating a Surface Scanner.
-        translation = Il n'y a pas de donnÃ©es d'enquÃªte orbitale disponibles. Effectuer un relevÃ© orbital Ã  l'aide d'un scanneur pour obtenir des dÃ©tails en haute dÃ©finition. \n\ nEnvoyer la prÃ©cision des donnÃ©es d'un biome en atterrissant et en exploitant un scanner de surface.
+        translation = Il n'y a pas de données d'enquête orbitale disponibles. Effectuer un relevé orbital à l'aide d'un scanneur pour obtenir des détails en haute définition. \n\ nEnvoyer la précision des données d'un biome en atterrissant et en exploitant un scanner de surface.
     }
     TRANSLATION
     {
@@ -414,7 +414,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Inoperable after transmitting\n
-        translation = InopÃ©rable aprÃ¨s transmission\n
+        translation = Inopérable après transmission\n
     }
     TRANSLATION
     {
@@ -504,27 +504,27 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Achievements
-        translation = RÃ©alisations
+        translation = Réalisations
     }
     TRANSLATION
     {
         text = +(\d*) XP Gained
-        translation = +@1 XP gagnÃ©
+        translation = +@1 XP gagné
     }
     TRANSLATION
     {
         text = Part Name Here
-        translation = Nom de la piÃ¨ce ici
+        translation = Nom de la pièce ici
     }
     TRANSLATION
     {
         text = Send anonymous game progress data
-        translation = Envoyer des donnÃ©es de progression de jeu anonymes
+        translation = Envoyer des données de progression de jeu anonymes
     }
     TRANSLATION
     {
         text = This is a facility at the Kerbal Space Center. If you hit it hard enough, it might collapse in a nice, satisfying explosion.
-        translation = Il s'agit d'une installation au centre spatial Kerbal. Si vous frappez assez fort, il pourrait s'effondrer dans une explosion agrÃ©able, satisfaisant.
+        translation = Il s'agit d'une installation au centre spatial Kerbal. Si vous frappez assez fort, il pourrait s'effondrer dans une explosion agréable, satisfaisant.
     }
     TRANSLATION
     {
@@ -534,12 +534,12 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = (\d*) Data Gathered
-        translation = @1 DonnÃ©es RecuperÃ©es
+        translation = @1 Données Recuperées
     }
     TRANSLATION
     {
-        text = Rebuild Lvl (\d*)\nÃ‚Â£ (\d*),(\d*),(\d*)
-        translation = Niveau de Reconstruction @1\nÂ§ @2,@3,@4
+        text = Rebuild Lvl (\d*)\nÂ£ (\d*),(\d*),(\d*)
+        translation = Niveau de Reconstruction @1\n§ @2,@3,@4
     }
     TRANSLATION
     {
@@ -559,7 +559,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Data Size: (\d*) Mits
-        translation = Taille DonnÃ©es: @1 Mits
+        translation = Taille Données: @1 Mits
     }
     TRANSLATION
     {
@@ -584,12 +584,12 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = No data available
-        translation = Aucune donnÃ©es Disponible
+        translation = Aucune données Disponible
     }
     TRANSLATION
     {
         text = KSP would like to send some data gathered from your system to the KSP Servers, to be used for statistical purposes.\n\nThe game will send the following data:
-        translation = KSP souhaite envoyer des donnÃ©es collectÃ©es Ã  partir de votre systÃ¨me vers les serveurs KSP, Ã  des fins statistiques. \n\ nLe jeu envoie les donnÃ©es suivantes:
+        translation = KSP souhaite envoyer des données collectées à partir de votre système vers les serveurs KSP, à des fins statistiques. \n\ nLe jeu envoie les données suivantes:
     }
     TRANSLATION
     {
@@ -604,12 +604,12 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Discard Data
-        translation = Supprimer DonnÃ©es
+        translation = Supprimer Données
     }
     TRANSLATION
     {
         text = Process in Lab Module\n(\d*) Data\n(\d*) Science\n(\d*)Y (\d*)D
-        translation = Fait en Module Laboratoire\n@1 DonnÃ©es\n@2 Science\n@3A @4J
+        translation = Fait en Module Laboratoire\n@1 Données\n@2 Science\n@3A @4J
     }
     TRANSLATION
     {
@@ -649,7 +649,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Ready for next assignment
-        translation = PrÃªt pour la prochaine affectation
+        translation = Prêt pour la prochaine affectation
     }
     TRANSLATION
     {
@@ -674,7 +674,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Continue Saved Game
-        translation = Continuer la Partie SauvegardÃ©e
+        translation = Continuer la Partie Sauvegardée
     }
     TRANSLATION
     {
@@ -689,7 +689,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text =     \[\+\] Design concern
-        translation = \[\+\] ProblÃ¨me de conception
+        translation = \[\+\] Problème de conception
     }
     TRANSLATION
     {
@@ -709,7 +709,7 @@ LANGUAGEPATCHES
     TRANSLATION
     {
         text = Outcome:
-        translation = RÃ©sultat:
+        translation = Résultat:
     }
     TRANSLATION
     {
